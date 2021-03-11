@@ -33,4 +33,4 @@ To compile and see the output:
 11. pushq
 12. popq
 
-All the other details can be found in [Report]()
+All the other details can be found in [Report](https://github.com/pragya919/Y86_Processor/blob/main/Report.pdf)
